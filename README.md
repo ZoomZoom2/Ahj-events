@@ -1,7 +1,7 @@
 
 # Обработка событий
 
-#### [![Build status](https://ci.appveyor.com/api/projects/status/gkd968xyvwabdb3b?svg=true)](https://ci.appveyor.com/project/zoomzoom2/ahj-dom-moving-item)
+#### [![Build status](https://ci.appveyor.com/api/projects/status/lv43ek0sigykr9lv?svg=true)](https://ci.appveyor.com/project/ZoomZoom2/ahj-events)
 
 Правила сдачи задания:
 
